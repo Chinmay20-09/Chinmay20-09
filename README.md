@@ -21,16 +21,16 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay20-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Chinmay20-09&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay20-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&v=1" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Chinmay20-09&theme=dark&hide_border=false&v=1" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay20-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay20-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1" width="50%" />
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chinmay20-09&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Chinmay20-09&theme=dark&no-frame=false&no-bg=false&margin-w=4&v=1)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
